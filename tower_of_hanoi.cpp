@@ -17,7 +17,7 @@ int main()
 	if(disk<1)
 	cout<<"\nThere are no disks to shift";
 	else
-	cout<<"\There are"<<disk<<"disk in tower 1\n";
+	cout<<"\n There are"<<disk<<"disk in tower 1\n";
 	TOH(disk,'1','2','3');
 	cout<<"\n\n"<<disk<<"disks in tower 1 are shifted to tower2";
 	return 0;
