@@ -19,10 +19,3 @@ int main()
   
 };
 
-output:
-sin (100) = -0.51
-cos (100) = 0.86
-tan (100) = -0.59
-7 to the power of 6 = 117649.00
-log10 (10) = 1.00
-sqrt (2) = 1.41
